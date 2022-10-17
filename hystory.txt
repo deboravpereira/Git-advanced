@@ -1,0 +1,10 @@
+Em 1801, sendo base para o que aconteceria mais tarde, o inventor francês
+Joseph-Marie Jacquard, criou a primeira máquina mecânica programável
+do mundo. 
+Já em 1821, 20 anos depois, o matemático inglês Charles Babbage criou
+uma máquina analítica que, a grosso modo, é comparada com o
+computador atual com memória e programas.
+Em 1848, Ada Lovelace, matemática inglesa, escreveu o primeiro software
+do mundo. Segundo registros, Lovelace, juntou cálculos da máquina
+inventada por Babbage e com isso, basicamente criou um algoritmo, que
+consequentemente, virou um programa de computador.
